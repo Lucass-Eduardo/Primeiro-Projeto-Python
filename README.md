@@ -1,7 +1,7 @@
 # Descrição do Projeto
 Sempre que fazemos análises, nós temos que formular hipóteses que podemos testar depois. Às vezes nós aceitamos essas hipóteses; outras vezes, nós as rejeitamos. Para fazer as escolhas certas, um negócio deve ser capaz de entender se está fazendo as suposições certas ou não.
 
-Neste projeto, você vai comparar as preferências musicais dos habitantes de Springfild e Shelbyville. Você examinará os dados reais do Y.Music para testar a hipótese abaixo e comparar os comportamentos dos usuários dessas duas cidades.
+Neste projeto, eu vou comparar as preferências musicais dos habitantes de Springfild e Shelbyville. Examinar dados reais do Y.Music para testar a hipótese abaixo e comparar os comportamentos dos usuários dessas duas cidades.
 
 ## Hipóteses
 
